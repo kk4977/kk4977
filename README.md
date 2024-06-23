@@ -3,6 +3,10 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/siva-kumar-kadali-8a459b238/" target="_blank" rel="noreferrer">SivaKumar</a> a passionate DevOps Engineer from India, working on Cloud and DevOps.</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
+<h1 >Visits: </h1>    
+
+![Visitor Count](https://profile-counter.glitch.me/kk4977/count.svg)
+
  
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
