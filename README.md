@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Kadali SivaKumar  
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/siva-kumar-kadali-8a459b238/" target="_blank" rel="noreferrer">SivaKumar</a> a passionate DevOps Engineer from India, working on Cloud and DevOps.</font></h3>
-
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/siva-kumar-kadali-8a459b238/" target="_blank" rel="noreferrer">SivaKumar</a> a passionate DevOps Engineer from India, working on Cloud and DevOps.Checkout my <a href="https://kk4977.github.io/MyPortfolio-Devops/" target="_blank" rel="noreferrer">Portfolio</a> </font></h3>
+ 
 <!-- Schedule a 1-on-1 Call Section -->
 <h1 >Visits: </h1>    
 
@@ -60,5 +60,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kk4977&show_icons=true&locale=en&layout=compact" alt="kk4977" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kk4977&show_icons=true&locale=en" alt="kk4977" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kk4977&" alt="kk4977" /></p>
